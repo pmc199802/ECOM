@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Epic Blazer	</title>
+	<atom:link href="https://pmc199802.github.io/ECOM/product/epic-blazer/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pmc199802.github.io/ECOM/product/epic-blazer/</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Jan 2021 22:21:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>
+		By: Nicolas Lecocq		</title>
+		<link>https://pmc199802.github.io/ECOM/product/epic-blazer/#comment-3</link>
+
+		<dc:creator><![CDATA[Nicolas Lecocq]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2016 23:54:33 +0000</pubDate>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?post_type=product&#038;p=51#comment-3</guid>
+
+					<description><![CDATA[Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.]]></description>
+			<content:encoded><![CDATA[<p>Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Maecenas aliquet mollis lectus. Vivamus consectetuer risus et tortor.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Nicolas Lecocq		</title>
+		<link>https://pmc199802.github.io/ECOM/product/epic-blazer/#comment-2</link>
+
+		<dc:creator><![CDATA[Nicolas Lecocq]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2016 23:54:12 +0000</pubDate>
+		<guid isPermaLink="false">https://oceanwp.org/simple/?post_type=product&#038;p=51#comment-2</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.]]></description>
+			<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

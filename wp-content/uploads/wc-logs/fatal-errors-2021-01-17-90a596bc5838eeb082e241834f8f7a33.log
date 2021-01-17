@@ -1,0 +1,4 @@
+2021-01-17T22:14:29+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\ECOM\wp-includes\Requests\Transport\cURL.php on line 437
+
+2021-01-17T22:29:19+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\ECOM\wp-includes\Requests\Transport\cURL.php on line 437
+
